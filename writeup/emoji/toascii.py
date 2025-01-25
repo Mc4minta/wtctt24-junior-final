@@ -13,4 +13,4 @@ for s in shifted:
     flag.append(chr(s))
     
 for f in flag:
-    print(f,end="")
+    print(f,end="")     
