@@ -1,0 +1,2 @@
+To everyone who are reading this
+- the zip file in this folder came from the folder of every file i download from the target website, because i don't want to push all 9331 file to my github, i compressed it :D
